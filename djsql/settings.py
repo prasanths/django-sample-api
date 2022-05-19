@@ -82,7 +82,7 @@ DATABASES = {
         'ENGINE': 'mssql',
         'NAME': 'dj',
 	'USER': 'sa',
-        'PASSWORD': '$Orange05',
+        'PASSWORD': '<<password>>',
         'HOST': 'DESKTOP-V1MD1VQ',
         'PORT': '',
         'OPTIONS': {
